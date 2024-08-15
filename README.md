@@ -86,7 +86,7 @@ npx hardhat run scripts/deploy.js --network linea
 
 
 ### Smart Contract Flow
-<img width="839" alt="Screenshot 2024-07-20 at 4 18 09 PM" src="https://github.com/user-attachments/assets/ea71254b-36c5-4f2d-9efa-5fb00375a818">
+<img width="1133" alt="Screenshot 2024-07-20 at 10 46 42 AM" src="https://github.com/user-attachments/assets/fb7829a3-2f00-4c9d-964d-467ba00e79bb">
 
 ### Hardhat Config
 <img width="637" alt="Screenshot 2024-07-19 at 11 31 17 PM" src="https://github.com/user-attachments/assets/c297442f-f8e5-47e9-beca-721856f9f97c">
